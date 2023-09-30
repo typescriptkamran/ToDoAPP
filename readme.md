@@ -1,6 +1,4 @@
-# tasks2do
-
-## Overview
+## tasks2do
 
 **tasks2do** is a simple command-line task management app built with TypeScript and Node.js. It helps you organize and manage your tasks efficiently, allowing you to add, complete, remove, and view completed tasks.
 
