@@ -14,8 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
-    "inquirer": "^9.2.11",
-    "node-calendar": "^0.1.5",
-    "node-calender": "^0.0.1"
+    "inquirer": "^9.2.11"
   }
 }
