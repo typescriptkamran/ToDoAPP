@@ -1,6 +1,6 @@
 {
   "name": "tasks2do",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "Simple todo app",
   "main": "./dist/index.js",
