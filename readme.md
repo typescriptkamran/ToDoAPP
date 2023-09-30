@@ -1,6 +1,3 @@
-Certainly! Here's the complete README.md file with headings for your "tasks2do" app:
-
-```markdown
 # tasks2do
 
 ## Overview
@@ -39,6 +36,7 @@ You can run the tasks2do app directly using the `npx` command. Follow the steps 
 Contributions are welcome! If you have any ideas for improving tasks2do or want to fix bugs, please open an issue or submit a pull request.
 
 ## License
+
 ```
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
